@@ -1,0 +1,15 @@
+{
+  "name": "optimize-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimize-images.js",
+  "scripts": {
+    "images": "node optimize-images.js",
+    "videos": "node optimize-videos.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
